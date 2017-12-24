@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Thoughts on Big Data Analytics, Machine Learning, and Product Development</description>
+   <language>en-uk</language>
+   
+      
+            
+      
+            
+               
+               
+                  <managingEditor>Pranav Shukla</managingEditor>
+            
+      
+   
+   <title>
+   <![CDATA[ Pranav Shukla - Valens DataLabs Blog ]]>
+   </title>
+   <description>
+   <![CDATA[ Thoughts on Big Data Analytics, Machine Learning, and Product Development ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Pranav Shukla - Valens DataLabs Blog</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/author/pranav/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Releasing Soon! Learning Elastic Stack 6.0</title>
+	  <link>/releasing-soon-learning-elastic-stack-6.0</link>
+		
+				
+		
+				
+						<author>Pranav Shukla</author>
+				
+		
+	  <pubDate>2017-12-24T10:00:00+00:00</pubDate>
+	  <guid>/releasing-soon-learning-elastic-stack-6.0</guid>
+	  <description><![CDATA[
+	     <p>The book Learning Elastic Stack 6.0 is available for pre-order. Here is what to expect from the book.</p>
+
+<hr />
+
+<p>Elasticsearch has been at the forefront of the big data movement. Since its initial release in 2010, it has slowly but steadily evolved into a robust <i>big data</i> store. Elasticsearch has been </p>
+
+<p><img src="assets/images/posts/front.jpg" alt="Test Image" /></p>
+
+<p>I have been working as a co-author on the book <em>Learning Elastic Stack 6.0</em> with <i>Packt Publishing</i>. After nearly one year of writing, the book is ready and is available for pre-order online.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

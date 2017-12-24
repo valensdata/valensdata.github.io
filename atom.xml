@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Thoughts on Big Data Analytics, Machine Learning, and Product Development</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Releasing Soon! Learning Elastic Stack 6.0</title>
+        
+          <description>&lt;p&gt;The book Learning Elastic Stack 6.0 is available for pre-order. Here is what to expect from the book.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 24 Dec 2017 10:00:00 +0000</pubDate>
+        <link>
+        /releasing-soon-learning-elastic-stack-6.0</link>
+        <guid isPermaLink="true">/releasing-soon-learning-elastic-stack-6.0</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
