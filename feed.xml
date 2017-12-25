@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-12-24T19:58:48+00:00</updated><id>/</id><title type="html">Valens DataLabs Blog</title><subtitle>Thoughts on Big Data Analytics, Machine Learning, and Product Development</subtitle><entry><title type="html">Releasing Soon! Learning Elastic Stack 6.0</title><link href="/releasing-soon-learning-elastic-stack-6.0" rel="alternate" type="text/html" title="Releasing Soon! Learning Elastic Stack 6.0" /><published>2017-12-24T10:00:00+00:00</published><updated>2017-12-24T10:00:00+00:00</updated><id>/releasing-soon-learning-elastic-stack-6.0</id><content type="html" xml:base="/releasing-soon-learning-elastic-stack-6.0">&lt;p&gt;The book Learning Elastic Stack 6.0 is available for pre-order. Here is what to expect from the book.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-12-25T11:31:45+00:00</updated><id>/</id><title type="html">Valens DataLabs Blog</title><subtitle>Thoughts on Big Data Analytics, Machine Learning, and Product Development</subtitle><entry><title type="html">Releasing Soon! Learning Elastic Stack 6.0</title><link href="/releasing-soon-learning-elastic-stack-6.0" rel="alternate" type="text/html" title="Releasing Soon! Learning Elastic Stack 6.0" /><published>2017-12-24T10:00:00+00:00</published><updated>2017-12-24T10:00:00+00:00</updated><id>/releasing-soon-learning-elastic-stack-6.0</id><content type="html" xml:base="/releasing-soon-learning-elastic-stack-6.0">&lt;p&gt;The book Learning Elastic Stack 6.0 is available for pre-order. Here is what to expect from the book.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -6,12 +6,27 @@
 
 &lt;p&gt;I have been working as a co-author on the book &lt;em&gt;Learning Elastic Stack 6.0&lt;/em&gt; with &lt;i&gt;Packt Publishing&lt;/i&gt; along with Sharath Kumar M N. After nearly one year of writing, the book is ready and is available for pre-order online.&lt;/p&gt;
 
-&lt;p&gt;It is available for ordering at Packt’s website &lt;a href=&quot;https://www.packtpub.com/big-data-and-business-intelligence/learning-elastic-stack-60&quot;&gt;on this link&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/front_small.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+&lt;p&gt;
+This book will initially introduce you to the Elastic Stack followed by showing you how to set up the stack by installing the tools, basic configurations, and building a basic data pipeline. This book covers ElasticSearch for distributed searching and analytics along with Logstash for logging and Kibana for visualization. It also demonstrates custom plugin creation in Kibana and Beats. It further teaches you about Elastic X – pack, which are extensions developed &amp;amp; maintained by Elastic Stack developers. We then move on to cover and teach you about Elastic Cloud. Towards the end you will also learn, how you can deploy the Elastic Stack in production environments.
+&lt;/p&gt;
+
+&lt;p&gt;
+On completing this book, you will have an in-depth knowledge of the implementation of Elastic Stack and have a solid understanding of the role of each component of the stack.
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/back_small.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The book is available for ordering at Packt’s website &lt;a href=&quot;https://www.packtpub.com/big-data-and-business-intelligence/learning-elastic-stack-60&quot;&gt;on this link&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It is also available on &lt;a href=&quot;https://www.amazon.co.uk/Learning-Elastic-Stack-Pranav-Shukla/dp/1787281868/ref=sr_1_1&quot; target=&quot;_blank&quot;&gt;Amazon UK&lt;/a&gt;, &lt;a href=&quot;https://www.amazon.com/Learning-Elastic-Stack-Pranav-Shukla/dp/1787281868/ref=tmm_pap_swatch_0&quot; target=&quot;_blank&quot;&gt;Amazon USA&lt;/a&gt;, &lt;a href=&quot;https://www.amazon.in/Learning-Elastic-Stack-Pranav-Shukla-ebook/dp/B077T7V7PF/ref=sr_1_1&quot; target=&quot;_blank&quot;&gt;Amazon India&lt;/a&gt; and other portals.&lt;/p&gt;
-
-&lt;p&gt;Here is the cover of the book.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/posts/front.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Order your copy now!&lt;/p&gt;</content><author><name>Pranav Shukla</name></author><category term="Elastic Stack" /><summary type="html">The book Learning Elastic Stack 6.0 is available for pre-order. Here is what to expect from the book.</summary></entry></feed>
