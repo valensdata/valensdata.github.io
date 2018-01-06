@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-12-26T14:28:28+00:00</updated><id>/</id><title type="html">Valens DataLabs Blog</title><subtitle>Thoughts on Big Data Analytics, Machine Learning, and Product Development</subtitle><entry><title type="html">Releasing Soon! Learning Elastic Stack 6.0</title><link href="/releasing-soon-learning-elastic-stack-6.0" rel="alternate" type="text/html" title="Releasing Soon! Learning Elastic Stack 6.0" /><published>2017-12-24T10:00:00+00:00</published><updated>2017-12-24T10:00:00+00:00</updated><id>/releasing-soon-learning-elastic-stack-6.0</id><content type="html" xml:base="/releasing-soon-learning-elastic-stack-6.0">&lt;p&gt;The book Learning Elastic Stack 6.0 is available for pre-order. Here is what to expect from the book.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-06T13:17:40+00:00</updated><id>/</id><title type="html">Valens DataLabs Blog</title><subtitle>Thoughts on Big Data Analytics, Machine Learning, and Product Development</subtitle><entry><title type="html">How Hadoop and Spark Are Transforming Data Warehousing</title><link href="/how-hadoop-and-spark-are-transforming-data-warehousing" rel="alternate" type="text/html" title="How Hadoop and Spark Are Transforming Data Warehousing" /><published>2018-01-05T11:27:10+00:00</published><updated>2018-01-05T11:27:10+00:00</updated><id>/how-hadoop-and-spark-are-transforming-data-warehousing</id><content type="html" xml:base="/how-hadoop-and-spark-are-transforming-data-warehousing">&lt;p&gt;Traditional data warehouses cannot handle big data. Hadoop, Spark, Impala, Parquet and SQL on Hadoop will play big role in data warehouse modernization.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The nature of data that enterprises have been dealing with has been changing in the last few years. It is no longer just transactional data. Volume, velocity, and variety of data is increasing steadily. Why should you care? If your organization is not capturing, storing and analyzing new types of data, your organization is potentially losing a competitive edge. Or put it the other way, leveraging this new type of data can give you a competitive edge.  
+&lt;/p&gt;
+
+&lt;p&gt;
+In this and following articles, I am going to cover –
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How data warehouses are excellent at dealing with structured data&lt;/li&gt;
+&lt;li&gt;Rise of unconventional data&lt;/li&gt;
+&lt;li&gt;Short-comings of traditional data warehouses&lt;/li&gt;
+&lt;li&gt;How Hadoop ecosystem and Apache Spark can help?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;How data warehouses are excellent at dealing with structured data&lt;/h2&gt;
+
+&lt;p&gt;
+Business Intelligence, analytics, and data warehousing are mature fields that have existed for more than three decades. Business Intelligence softwares are typically powered by an underlying data warehouse and data mart(s). Traditional data warehouses and data marts rely on relational databases like Oracle, Teradata, MySQL and the like following star schema. SQL constructs make slicing, dicing, drill down/up of data possible along different dimensions.  
+&lt;/p&gt;
+
+&lt;p&gt;
+Data warehouses have worked nicely and they continue to serve the purpose. Most of this data has been highly structured data, i.e. transactional data most suitable for relational databases. But what about big data, the new type of unconventional data that is semi-structured or unstructured? What about data coming at very high velocity at thousands or millions of events per second?
+&lt;/p&gt;
+
+&lt;h2&gt;Rise of unconventional data&lt;/h2&gt;
+
+&lt;p&gt;
+A lot has been written and said about how data is growing and about the 3 (or 4) V’s (Volume, Velocity, Variety, and Veracity). Sensor data, smart phones, images, social media, and machine logs are new types of unstructured and semi-structured data. They can be effectively used to gain a competitive edge.  
+&lt;/p&gt;
+
+&lt;p&gt;
+Traditional data warehouses cannot handle these new types of data, they can’t handle all the V’s. The associated costs are prohibitive due to licensing and infrastructure costs.
+&lt;/p&gt;
+
+&lt;h2&gt;Short-comings of traditional data warehouses&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;strong&gt;Inability to deal with 3 V’s.&lt;/strong&gt; Hard to efficiently handle the 3 V’s without breaking the bank. Besides there is no efficient way of handling unstructured and semi-structured data.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Lots of ETL.&lt;/strong&gt; Moving data the from source transactional systems (OLTP systems) require a number of ETL jobs to move data around and transform it to the target data mart.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Inability to retain data.&lt;/strong&gt; High storage costs means data needs to be archived to tapes and becomes inaccessible forever.
+&lt;/p&gt;
+&lt;h2&gt;How Hadoop ecosystem and Apache Spark can help?&lt;/h2&gt;
+
+&lt;p&gt;
+Hadoop ecosystem has come a long way since its inception around 2005. It has proven itself in handling the famous 3 V’s. Lots of research has gone into distributed file systems, storage formats, distributed computing, SQL-on-Hadoop engines, security etc.
+&lt;/p&gt;
+
+&lt;p&gt;
+Hadoop’s MapReduce framework was traditionally used to do analysis on the hadoop data. Apache Spark is a distributed computing framework that can run on HDFS, Amazon S3 and perform in-memory fast analytics. Spark is 10x to 100x faster than MapReduce even when all the data cannot fit in the cluster’s memory. 
+&lt;/p&gt;
+
+&lt;p&gt;
+Storage – HDFS, Amazon S3 are two widely used resilient and distributed file systems that can scale from terabytes to petabytes/exabytes. 
+&lt;/p&gt;
+
+&lt;p&gt;
+Storage formats – Special purpose efficient columnar storage formats like Parquet have evolved to enable fast analytics queries. 
+&lt;/p&gt;
+
+&lt;p&gt;
+SQL-on-Hadoop engines – Cloudera’s Impala, Spark-SQL and Apache Drill are distributed query engines providing low latency interactive SQL queries on HDFS files.  
+&lt;/p&gt;
+
+&lt;p&gt;
+The SQL-on-Hadoop engines are getting faster by the day to catch up with the speeds of relational databases. They also support JDBC/ODBC connectivity via third party applications. The availability of JDBC/ODBC connectivity means that existing BI tools like OBIEE, Tableau, Microstrategy, Qlik and others can connect and query the big data.  
+&lt;/p&gt;
+
+&lt;p&gt;
+While traditional data warehouses are here to stay, at least in the near future. Hadoop ecosystem, spark and other NoSQL databases can help in modernizing your BI infrastructure, by providing the ability to store and analyze new types of unstructured, semi structured, high volume, high velocity data.
+&lt;/p&gt;
+
+&lt;p&gt;
+Are you looking to modernize your DW/BI infrastructure?
+&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally published at &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://brevitaz.com/hadoop-spark-data-warehousing-business-intelligence/&quot; data-href=&quot;http://brevitaz.com/hadoop-spark-data-warehousing-business-intelligence/&quot; rel=&quot;canonical&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;http://brevitaz.com/hadoop-spark-data-warehousing-business-intelligence/&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt; on May 10, 2016.&lt;/em&gt;&lt;/p&gt;</content><author><name>Pranav Shukla</name></author><category term="Hadoop" /><category term="Spark" /><category term="Big Data" /><category term="Data Warehouse" /><summary type="html">Traditional data warehouses cannot handle big data. Hadoop, Spark, Impala, Parquet and SQL on Hadoop will play big role in data warehouse modernization.</summary></entry><entry><title type="html">Releasing Soon! Learning Elastic Stack 6.0</title><link href="/releasing-soon-learning-elastic-stack-6.0" rel="alternate" type="text/html" title="Releasing Soon! Learning Elastic Stack 6.0" /><published>2017-12-24T10:00:00+00:00</published><updated>2017-12-24T10:00:00+00:00</updated><id>/releasing-soon-learning-elastic-stack-6.0</id><content type="html" xml:base="/releasing-soon-learning-elastic-stack-6.0">&lt;p&gt;The book Learning Elastic Stack 6.0 is available for pre-order. Here is what to expect from the book.&lt;/p&gt;
 
 &lt;hr /&gt;
 
