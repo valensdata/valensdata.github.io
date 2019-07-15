@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>Book Learning Elastic Stack 7 released!</title>
+        
+          <description>&lt;p&gt;Elastic Stack 7.0 was released in April 2019 with many new features. After the success of the of the first book Learning Elastic Stack 6.0, the second edition of the book was released on 31st May 2019 with title Learning Elastic Stack 7.0&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 15 Jul 2019 12:45:10 +0000</pubDate>
+        <link>
+        /learning-elastic-stack-7-second-edition</link>
+        <guid isPermaLink="true">/learning-elastic-stack-7-second-edition</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>How Hadoop and Spark Are Transforming Data Warehousing</title>
         
           <description>&lt;p&gt;Traditional data warehouses cannot handle big data. Hadoop, Spark, Impala, Parquet and SQL on Hadoop will play big role in data warehouse modernization.&lt;/p&gt;

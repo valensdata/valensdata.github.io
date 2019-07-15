@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-06T13:21:43+00:00</updated><id>/</id><title type="html">Valens DataLabs Blog</title><subtitle>Thoughts on Big Data Analytics, Machine Learning, and Product Development</subtitle><entry><title type="html">How Hadoop and Spark Are Transforming Data Warehousing</title><link href="/how-hadoop-and-spark-are-transforming-data-warehousing" rel="alternate" type="text/html" title="How Hadoop and Spark Are Transforming Data Warehousing" /><published>2018-01-05T11:27:10+00:00</published><updated>2018-01-05T11:27:10+00:00</updated><id>/how-hadoop-and-spark-are-transforming-data-warehousing</id><content type="html" xml:base="/how-hadoop-and-spark-are-transforming-data-warehousing">&lt;p&gt;Traditional data warehouses cannot handle big data. Hadoop, Spark, Impala, Parquet and SQL on Hadoop will play big role in data warehouse modernization.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-15T13:40:21+00:00</updated><id>/</id><title type="html">Valens DataLabs Blog</title><subtitle>Thoughts on Big Data Analytics, Machine Learning, and Product Development</subtitle><entry><title type="html">Book Learning Elastic Stack 7 released!</title><link href="/learning-elastic-stack-7-second-edition" rel="alternate" type="text/html" title="Book Learning Elastic Stack 7 released!" /><published>2019-07-15T12:45:10+00:00</published><updated>2019-07-15T12:45:10+00:00</updated><id>/learning-elastic-stack-7-second-edition</id><content type="html" xml:base="/learning-elastic-stack-7-second-edition">&lt;p&gt;Elastic Stack 7.0 was released in April 2019 with many new features. After the success of the of the first book Learning Elastic Stack 6.0, the second edition of the book was released on 31st May 2019 with title Learning Elastic Stack 7.0&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The first edition of the book &lt;em&gt;Learning Elastic Stack 6.0&lt;/em&gt; was received very well by the readers. It had featured in best data processing books of all time at number 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/book_authority_best_data_processing.png&quot; alt=&quot;Book Authority Rank&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ever since the Elastic Stack 7.0 alpha release was out, I along with Sharath Kumar M N have been working on the second edition of the book&lt;em&gt;Learning Elastic Stack 7.0&lt;/em&gt; with &lt;i&gt;Packt Publishing&lt;/i&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;
+The book covers new features introduced after Elastic Stack 6.0 was released across all components of the stack including Elasticsearch, Kibana, Logstash, Beats, X-Pack etc. The book is for programmers as well as non-programmers to get started with Elastic Stack to solve data analytics problems for variety of use-cases.
+&lt;/p&gt;
+
+&lt;p&gt;
+On completing this book, you will have an in-depth knowledge of the implementation of Elastic Stack and have a solid understanding of the role of each component of the stack.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/learning_elastic_stack_7_cover.png&quot; alt=&quot;Learning Elastic Stack 7.0 Cover&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The book is available for ordering at Packt’s website &lt;a href=&quot;https://www.packtpub.com/in/big-data-and-business-intelligence/learning-elastic-stack-70-second-edition&quot;&gt;on this link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is also available on &lt;a href=&quot;https://www.amazon.com/Learning-Elastic-Stack-visualization-Elasticsearch-ebook/dp/B07SN9VH7V/ref=sr_1_1&quot; target=&quot;_blank&quot;&gt;amazon.com&lt;/a&gt;, &lt;a href=&quot;https://www.amazon.co.uk/Learning-Elastic-Stack-visualization-Elasticsearch-ebook/dp/B07SN9VH7V/ref=sr_1_1&quot; target=&quot;_blank&quot;&gt;amazon.co.uk&lt;/a&gt;, &lt;a href=&quot;https://www.amazon.in/Learning-Elastic-Stack-visualization-Elasticsearch-ebook/dp/B07SN9VH7V/ref=sr_1_1&quot; target=&quot;_blank&quot;&gt;amazon.in&lt;/a&gt; and other portals.&lt;/p&gt;</content><author><name>Pranav Shukla</name></author><category term="Elastic Stack" /><category term="Big Data" /><category term="Elasticsearch" /><category term="Kibana" /><category term="Logstash" /><summary type="html">Elastic Stack 7.0 was released in April 2019 with many new features. After the success of the of the first book Learning Elastic Stack 6.0, the second edition of the book was released on 31st May 2019 with title Learning Elastic Stack 7.0</summary></entry><entry><title type="html">How Hadoop and Spark Are Transforming Data Warehousing</title><link href="/how-hadoop-and-spark-are-transforming-data-warehousing" rel="alternate" type="text/html" title="How Hadoop and Spark Are Transforming Data Warehousing" /><published>2018-01-05T11:27:10+00:00</published><updated>2018-01-05T11:27:10+00:00</updated><id>/how-hadoop-and-spark-are-transforming-data-warehousing</id><content type="html" xml:base="/how-hadoop-and-spark-are-transforming-data-warehousing">&lt;p&gt;Traditional data warehouses cannot handle big data. Hadoop, Spark, Impala, Parquet and SQL on Hadoop will play big role in data warehouse modernization.&lt;/p&gt;
 
 &lt;hr /&gt;
 
